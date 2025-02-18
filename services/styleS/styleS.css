@@ -1,0 +1,9 @@
+body{
+    background-color: darkgray;
+}
+#first{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: large;
+}
